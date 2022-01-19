@@ -1,4 +1,6 @@
 # k8sDocLinks
+## kubernetes
+Kubernetes Documentation / Tasks / Administer a Cluster / Safely Drain a Node, https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/<br>
 
 ## Blogs
 Cordon/drain/uncordon, https://www.cnblogs.com/Dev0ps/p/11088810.html<br>
