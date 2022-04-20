@@ -12,5 +12,7 @@ Cordon/drain/uncordon, https://www.cnblogs.com/Dev0ps/p/11088810.html<br>
 k8s Pod drain, https://blog.51cto.com/lookingdream/2539526<br>
 
 ## Tigera - Calico
+Project Calico, https://github.com/projectcalico<br>
+Calico, https://github.com/projectcalico/calico
 Global network policy, https://projectcalico.docs.tigera.io/reference/resources/globalnetworkpolicy<br>
 Get sharted with Calico network policy, https://projectcalico.docs.tigera.io/security/calico-network-policy<br>
