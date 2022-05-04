@@ -1,5 +1,6 @@
 # k8sDocLinks
 ## kubernetes
+kubectl Cheat Sheet, https://kubernetes.io/docs/reference/kubectl/cheatsheet/<br>
 Kubernetes Documentation / Tasks / Administer a Cluster / Safely Drain a Node, https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/<br>
 kubernetes autoscaler - Frequently Asked Questions, https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md<br>
 
