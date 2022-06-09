@@ -15,6 +15,7 @@ godleon.github.io, https://godleon.github.io/blog/Kubernetes/k8s-Scheduling-Mana
 Memory_working_set vs Memory_rss in Kubernetes, which one you should monitor?, https://medium.com/@eng.mohamed.m.saeed/memory-working-set-vs-memory-rss-in-kubernetes-which-one-you-should-monitor-8ef77bf0acee<br>
 Subnet Mask Cheat Sheet, https://www.aelius.com/njh/subnet_sheet.html<br>
 Custom DNS Configuration: AKS/Kubernetes, https://levelup.gitconnected.com/custom-dns-configuration-aks-kubernetes-360e481afc1<br>
+[Kubernetes] Service Overview, https://godleon.github.io/blog/Kubernetes/k8s-Service-Overview/<br>
 
 ## Tigera - Calico
 Project Calico, https://github.com/projectcalico<br>
