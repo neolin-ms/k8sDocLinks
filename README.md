@@ -3,6 +3,8 @@
 kubectl Cheat Sheet, https://kubernetes.io/docs/reference/kubectl/cheatsheet/<br>
 Kubernetes Documentation / Tasks / Administer a Cluster / Safely Drain a Node, https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/<br>
 kubernetes autoscaler - Frequently Asked Questions, https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md<br>
+Debugging DNS Resolution, https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/<br>
+Debug Services, https://kubernetes.io/docs/tasks/debug/debug-application/debug-service/<br>
 
 ## learnk8s
 blog, https://learnk8s.io/blog<br>
