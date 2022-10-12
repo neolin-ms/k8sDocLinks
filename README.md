@@ -20,6 +20,8 @@ Memory_working_set vs Memory_rss in Kubernetes, which one you should monitor?, h
 Subnet Mask Cheat Sheet, https://www.aelius.com/njh/subnet_sheet.html<br>
 Custom DNS Configuration: AKS/Kubernetes, https://levelup.gitconnected.com/custom-dns-configuration-aks-kubernetes-360e481afc1<br>
 [Kubernetes] Service Overview, https://godleon.github.io/blog/Kubernetes/k8s-Service-Overview/<br>
+kubectl node-shell, https://github.com/kvaps/kubectl-node-shell<br>
+K8s memory cgroup out of memory - kill process, https://zhuanlan.zhihu.com/p/387926789<br>
 
 ## Tigera - Calico
 Project Calico, https://github.com/projectcalico<br>
