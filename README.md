@@ -23,6 +23,9 @@ Custom DNS Configuration: AKS/Kubernetes, https://levelup.gitconnected.com/custo
 kubectl node-shell, https://github.com/kvaps/kubectl-node-shell<br>
 K8s memory cgroup out of memory - kill process, https://zhuanlan.zhihu.com/p/387926789<br>
 
+## NGINX Ingress Controller
+gRPC, https://kubernetes.github.io/ingress-nginx/examples/grpc/<br>
+
 ## Tigera - Calico
 Project Calico, https://github.com/projectcalico<br>
 Calico, https://github.com/projectcalico/calico
