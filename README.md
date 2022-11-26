@@ -25,6 +25,7 @@ K8s memory cgroup out of memory - kill process, https://zhuanlan.zhihu.com/p/387
 
 ## NGINX Ingress Controller
 gRPC, https://kubernetes.github.io/ingress-nginx/examples/grpc/<br>
+Detecting the installed version of nginx ingress, https://fabianlee.org/2021/04/14/kubernetes-detecting-the-installed-version-of-nginx-ingress/<br>
 
 ## Tigera - Calico
 Project Calico, https://github.com/projectcalico<br>
