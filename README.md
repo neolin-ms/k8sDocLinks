@@ -24,6 +24,7 @@ kubectl node-shell, https://github.com/kvaps/kubectl-node-shell<br>
 K8s memory cgroup out of memory - kill process, https://zhuanlan.zhihu.com/p/387926789<br>
 How to Fix ‘Terminated With Exit Code 1’ Error | Signal 7 (SIGHUP), https://komodor.com/learn/how-to-fix-container-terminated-with-exit-code-1/<br>
 Troubleshooting ‘terminated with exit code 1’ error, https://www.containiq.com/post/terminated-with-exit-code-1<br>
+Pod Stuck In Terminating State, https://containersolutions.github.io/runbooks/posts/kubernetes/pod-stuck-in-terminating-state/#solution-c<br>
 
 ## NGINX Ingress Controller
 gRPC, https://kubernetes.github.io/ingress-nginx/examples/grpc/<br>
