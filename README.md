@@ -12,6 +12,9 @@ Debug Services, https://kubernetes.io/docs/tasks/debug/debug-application/debug-s
 blog, https://learnk8s.io/blog<br>
 Architecting Kubernetes clusters — choosing the best autoscaling strategy, https://learnk8s.io/kubernetes-autoscaling-strategies<br>
 
+## Github
+Container Storage Interface - volume ligecycle, https://github.com/container-storage-interface/spec/blob/master/spec.md#volume-lifecycle<br>
+
 ## Blogs
 Cordon/drain/uncordon, https://www.cnblogs.com/Dev0ps/p/11088810.html<br>
 k8s Pod drain, https://blog.51cto.com/lookingdream/2539526<br>
