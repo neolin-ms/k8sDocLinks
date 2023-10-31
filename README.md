@@ -13,6 +13,7 @@ blog, https://learnk8s.io/blog<br>
 Architecting Kubernetes clusters — choosing the best autoscaling strategy, https://learnk8s.io/kubernetes-autoscaling-strategies<br>
 
 ## Github
+ETCD - degragnentation, https://etcd.io/docs/v3.4/op-guide/maintenance/#defragmentation<br>
 Container Storage Interface - volume ligecycle, https://github.com/container-storage-interface/spec/blob/master/spec.md#volume-lifecycle<br>
 
 ## Blogs
