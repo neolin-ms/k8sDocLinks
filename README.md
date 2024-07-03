@@ -16,6 +16,7 @@ Architecting Kubernetes clusters — choosing the best autoscaling strategy, htt
 ## Github
 ETCD - degragnentation, https://etcd.io/docs/v3.4/op-guide/maintenance/#defragmentation<br>
 Container Storage Interface - volume ligecycle, https://github.com/container-storage-interface/spec/blob/master/spec.md#volume-lifecycle<br>
+Kubent - Easily check your clusters for use of deprecated APIs, https://github.com/doitintl/kube-no-trouble<br>
 
 ## Blogs
 Cordon/drain/uncordon, https://www.cnblogs.com/Dev0ps/p/11088810.html<br>
